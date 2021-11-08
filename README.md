@@ -26,7 +26,7 @@ Wow, so balanced.
 
 ### Links
 
-- [Current Version](https://github.com/Sierra0001/Milkshakes---Blueberry---Strawberry-Edition/releases/tag/v1.0)
+- [Current Version](https://github.com/Sierra0001/Milkshakes---Blueberry---Strawberry-Edition/releases/tag/v1.0.1)
 - [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2649143849)
 - [GitHub](https://github.com/Sierra0001/Milkshakes---Blueberry---Strawberry-Edition)
 
@@ -39,3 +39,4 @@ Steve o.O for the new delicious fruit textures.
 
 - [RimWorld 1.3] RimWorld 1.3 Ready.
 - [Release] Initial release.
+- [Update] Improved milkshake textures.

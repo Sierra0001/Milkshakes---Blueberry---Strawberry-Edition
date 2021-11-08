@@ -16,7 +16,7 @@
 		<li>Ludeon.RimWorld.Ideology</li>
 	</loadAfter>
 	<description>
-[h1]Mod Version: v1.0[/h1]
+[h1]Mod Version: v1.0.1[/h1]
 [b]Warning: Do not use this mod with [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2595120517]Milkshakes - Berry Edition[/url][/b]
 
 
@@ -62,7 +62,7 @@ Grants Mood Buff (2) for 18 hours after consumption.
 
 [b]Compatibility:[/b]
 [list]
-[*]This mod replaces [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2595120517]Milkshakes - Berry Edition[/url][/b]
+[*]This mod replaces [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2595120517]Milkshakes - Berry Edition[/url]
 [*]Compatible as long as you're not lactose intolerant.
 [/list]
 
@@ -91,6 +91,11 @@ Wow, so balanced.
 [list]
 [*][RimWorld 1.3] RimWorld 1.3 Ready.
 [*][Release] Initial release.
+[/list]
+
+[b]v1.0.1[/b]
+[list]
+[*][Update] Improved milkshake textures.
 [/list]
 	</description>
 </ModMetaData>
