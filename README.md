@@ -26,7 +26,7 @@ Wow, so balanced.
 
 ### Links
 
-- [Current Version](https://github.com/Sierra0001/Milkshakes---Berry-Edition/releases/tag/v1.2)
+- [Current Version](https://github.com/Sierra0001/Milkshakes---Blueberry---Strawberry-Edition/releases/tag/v1.0)
 - [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2649143849)
 - [GitHub](https://github.com/Sierra0001/Milkshakes---Blueberry---Strawberry-Edition)
 
