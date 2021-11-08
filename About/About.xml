@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Milkshakes - Blueberry &amp; Strawberry Edition </name>
+	<author>Sierra</author>
+	<packageId>Sierra.Milkshakes.BlueberriesStrawberries</packageId>
+	<url></url>
+	<supportedVersions>
+		<li>1.3</li>
+	</supportedVersions>
+	<incompatibleWith>
+		<li>Sierra.Milkshakes.Berries</li>
+	</incompatibleWith>
+	<loadAfter>
+		<li>Ludeon.RimWorld</li>
+		<li>Ludeon.RimWorld.Royalty</li>
+		<li>Ludeon.RimWorld.Ideology</li>
+	</loadAfter>
+	<description>
+[h1]Mod Version: v1.0[/h1]
+[b]Warning: Do not use this mod with [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2595120517]Milkshakes - Berry Edition[/url][/b]
+
+
+My milkshake brings all the modders to the yard.
+
+This mod adds 3 new craftable recreation/luxury food, and introduces a berry sorting recipe to split mixed berries into blueberry and strawberries.
+
+
+[b]Features:[/b]
+Items:
+[list]
+[*]New berries textures
+[*]Blueberries (Sorted from berries)
+[*]Strawberries (Sorted from berries)
+[/list]
+Milkshakes
+[list]
+[*]Mixed Berry Milkshakes (Recreation/Luxury Food)
+[*]Blueberry Milkshakes (Recreation/Luxury Food)
+[*]Strawberry Milkshakes (Recreation/Luxury Food)
+[/list]
+Grants Mood Buff (2) for 18 hours after consumption.
+
+
+[h1]Want the full collection instead?
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2595980371]Milkshakes - Digital Deluxe Edition[/url][/h1]
+
+
+[b]Recommended Mods:[/b]
+[list]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2630669656]RimFantasy - Gemstones[/url]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2630670287]RimFantasy - Temperature Regulation[/url]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2632845986]RimFantasy - Crystallic Lighting[/url]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2634323159]RimFantasy - Arcane Batons[/url]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1916352291]RimTraits - Medieval Talent[/url]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2206957172]RimTraits - General Traits[/url]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2244594116]RimTraits - Vanilla Trait Colors[/url]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2591782692]Milkshakes[/url]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2595706669]Milkshakes - Ambrosia Edition[/url]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2594428074]Milkshakes - Chocolate Edition[/url]
+[/list]
+
+
+[b]Compatibility:[/b]
+[list]
+[*]This mod replaces [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2595120517]Milkshakes - Berry Edition[/url][/b]
+[*]Compatible as long as you're not lactose intolerant.
+[/list]
+
+
+[b]Balance:[/b]
+Wow, so balanced.
+
+
+[url=https://discord.gg/rimworld]Click here to join us on the Community Discord![/url]
+
+
+[h1]Credits:[/h1]
+[list]
+[*]SirLalaPyon for his amazing, high quality vanilla styled art.
+[*]Steve o.O for the new delicious fruit textures.
+[*]Modded Food Textures from: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2553700067]Medieval Overhaul[/url]
+[*]Modded Clothing Textures from: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2023513450]Vanilla Factions Expanded - Medieval[/url]
+[/list]
+
+
+(CC BY-NC-ND 4.0)
+
+
+[h1]Latest Changes:[/h1]
+[b]v1.0[/b]
+[list]
+[*][RimWorld 1.3] RimWorld 1.3 Ready.
+[*][Release] Initial release.
+[/list]
+	</description>
+</ModMetaData>

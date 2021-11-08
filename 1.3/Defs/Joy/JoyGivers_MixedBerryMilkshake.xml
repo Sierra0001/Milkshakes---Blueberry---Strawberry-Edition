@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <JoyGiverDef>
+    <defName>Sierra_DrinkMilkshake</defName>
+    <giverClass>JoyGiver_Ingest</giverClass>
+    <baseChance>2.5</baseChance>
+    <thingDefs>
+      <li MayRequire="Sierra.Milkshakes.Milk">Sierra_Milkshake</li>
+      <li MayRequire="Sierra.Milkshakes.Ambrosia">Sierra_AmbrosiaMilkshake</li>
+      <li>Sierra_MixedBerryMilkshake</li>
+      <li>Sierra_BlueberryMilkshake</li>
+      <li>Sierra_StrawberryMilkshake</li>
+      <li MayRequire="Sierra.Milkshakes.Chocolate">Sierra_ChocolateMilkshake</li>
+    </thingDefs>
+    <joyKind>Sierra_Drinking_Milkshake</joyKind>
+    <requiredCapacities>
+      <li>Manipulation</li>
+    </requiredCapacities>
+  </JoyGiverDef>
+
+
+</Defs>
