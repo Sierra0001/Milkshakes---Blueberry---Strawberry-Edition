@@ -3,7 +3,7 @@
 
   <RecipeDef>
     <defName>Sierra_MakeMixedBerryMilkshakeSmall</defName>
-    <label>make berry milkshake</label>
+    <label>make mixed berry milkshake</label>
     <description>Make mixed berry milkshake, a delightful and healthy treat.</description>
     <jobString>Making mixed berry milkshake.</jobString>
     <workAmount>300</workAmount> <!-- Reference: Simple Meal -->
@@ -45,7 +45,7 @@
 
   <RecipeDef>
     <defName>Sierra_MakeMixedBerryMilkshakeMedium</defName>
-    <label>make berry milkshakes x4</label>
+    <label>make mixed berry milkshakes x4</label>
     <description>Make mixed berry milkshakes, a delightful and healthy treat.\n\nThis is a batch recipe that utilise a slightly more efficient production process.</description>
     <jobString>Making mixed berry milkshakes.</jobString>
     <workAmount>1050</workAmount> <!-- Batch Bonus 3.5x -->
